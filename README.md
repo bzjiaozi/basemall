@@ -72,7 +72,7 @@
                  
 
 ### 系统架构图
-![](https://bgniao-small-file-1253272780.cos.ap-chengdu.myqcloud.com/group_purchase_open/sasasa1.png "布谷鸟社区团购架构图")
+![](https://bgniao-small-file-1253272780.cos.ap-chengdu.myqcloud.com/group_purchase_open/sasasa1.png "布谷鸟社区团购架构")
 
 ### 功能模块
 	基础服务：
